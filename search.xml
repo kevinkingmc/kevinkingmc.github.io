@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/01/09/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><span id="more"></span>
+
+<h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>重装系统</title>
+    <url>/2022/01/10/%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F/</url>
+    <content><![CDATA[<p>前言：亲爱的小伙伴，我又来了！</p>
+<p>本期我给你们带来的是如何重装电脑系统或者升级电脑系统。相信很多小伙伴都遇到过电脑卡顿和电脑中毒，或者其他什么原因，其实重装电脑系统有非常多的作用。</p>
+<h1 id="重装电脑系统"><a href="#重装电脑系统" class="headerlink" title="重装电脑系统"></a>重装电脑系统</h1><span id="more"></span>
+
+<h2 id="重装系统的作用"><a href="#重装系统的作用" class="headerlink" title="重装系统的作用"></a>重装系统的作用</h2><ol>
+<li>杀死木马病毒</li>
+<li>提高系统稳定性</li>
+<li>碎片化数据的整理 </li>
+<li>清理系统垃圾</li>
+<li>还原用户操作习惯</li>
+<li>提高系统运行速度</li>
+<li>修复缺失的系统文件</li>
+<li>系统崩溃时的唯一选择</li>
+<li>还原用户喜爱版本</li>
+</ol>
+<h2 id="重装系统的步骤"><a href="#重装系统的步骤" class="headerlink" title="重装系统的步骤"></a>重装系统的步骤</h2><h3 id="下载想要的windows系统"><a href="#下载想要的windows系统" class="headerlink" title="下载想要的windows系统"></a>下载想要的windows系统</h3><p>重装windows电脑系统，我推荐大家去<strong>msdn网站</strong>下载电脑想要的电脑系统。这里我有个重点要告诉大家：<strong>所有的xp系统都是32位操作系统，而所有的64位系统都兼容32位操作系统的</strong>。其他网站重装系统版本可能要付款或者存在系统不稳定，甚至盗版等许多的问题。在msdn网站下载的电脑版本不会存在以下问题，都是正版的，大家可以放心使用，而且大部分的windows版本都是已经激活且总永久激活的。但是如果存在未激活的系统版本或者只激活一段时间的系统版本，你可以联系我，我一定会帮你解决的，加油(ง •̀_•́)ง奥利给(ღ˘⌣˘ღ)。</p>
+<h3 id="了解自己的系统版本"><a href="#了解自己的系统版本" class="headerlink" title="了解自己的系统版本"></a>了解自己的系统版本</h3><p>在msdn下载电脑系统的时候一定要了解自己的电脑是多少位的操作系统，至于企业版和教育版等版本，你可以自己按照自己的喜欢进行下载。如果你喜欢这个系统版本，你还可以在U盘中下载该系统，等到系统出现其他原因的时候直接用U盘就可以直接重装系统了，不过使用U盘启动时需要制作U盘启动盘。<strong>（用U盘启动，进入WINPE，新版本要先分区，然后双击桌面左下角的“自动安装系统”，按任意键开始复制系统，复制完后系统会自动重启。注意：系统重新启动时一定要拨出U盘）</strong></p>
+<h3 id="在msdn中找对应版本，确定下载位置"><a href="#在msdn中找对应版本，确定下载位置" class="headerlink" title="在msdn中找对应版本，确定下载位置"></a>在msdn中找对应版本，确定下载位置</h3><p>在msdn网站中找到操作系统，点击想下载的操作的系统版本，一定要确定自己的系统是多少位操作系统。<strong>（这在后期我介绍使用python的时候中也有一样的要求。）</strong>如果觉得这样下载太麻烦，可以直接在浏览器中搜索msdn+想要的系统版本，点开根据操作系统下载对应的想要的版本，点击本地下载<strong>（除c盘以外）</strong>。确定下载位置<strong>（路径）</strong>，找到下好的系统压缩包，进行解压，可解压到当前位置。<strong>下载好相应驱动后，解压到除C盘外任意盘符，然后出来个setup的应用程序，双击即可开始安装。</strong></p>
+<h3 id="等待系统自动重装"><a href="#等待系统自动重装" class="headerlink" title="等待系统自动重装"></a>等待系统自动重装</h3><p>然后咱们就可以坐等它自己安装了，安装时间有点长，建议泡杯咖啡，我第一次重装系统是晚上十二点，结果等了一个小时多，可能是电脑版本太老了。等到电脑系统重装完成就可以使用了，其实是非常简单的。突然想起我在读初中时的第一次重装系统，那时候我用的是360安全卫士重装电脑系统，但那个重装系统就是真的重装系统，不过它是把你的系统重新安装，不改变系统版本的型号。我个人认为现在的重装系统，大部分都可以称为升级电脑系统。</p>
+<h3 id="重装系统的原理"><a href="#重装系统的原理" class="headerlink" title="重装系统的原理"></a>重装系统的原理</h3><p>重装系统基本是电脑自己进行的，我们要做的就是把自己想要系统版本从网上下载。本次的重装系统教程到此结束，下次我将继续告诉大家重装系统的知识，只不过是另一种更便捷简约的Linux的系统该怎么下载安装，谢谢大家的浏览。</p>
+<h2 id="拓展：win7与win10的比较"><a href="#拓展：win7与win10的比较" class="headerlink" title="拓展：win7与win10的比较"></a>拓展：win7与win10的比较</h2><p>很多人都喜欢windows7的系统，尽管有windows10的系统，因为<strong>windows7系统的稳定性更高</strong>，那么又有人会说<strong>xp系统的稳定性更高</strong>啊。（苦笑）对，确实是，但是那个系统版本太老了，我觉得快淘汰了。</p>
+<h3 id="注意：-该文章转载于本人公众号，黑科技创客空间"><a href="#注意：-该文章转载于本人公众号，黑科技创客空间" class="headerlink" title="注意： 该文章转载于本人公众号，黑科技创客空间"></a>注意： 该文章转载于本人公众号，黑科技创客空间</h3>]]></content>
+      <categories>
+        <category>电脑系统</category>
+      </categories>
+      <tags>
+        <tag>Windows</tag>
+        <tag>系统</tag>
+        <tag>教学</tag>
+      </tags>
+  </entry>
+</search>
