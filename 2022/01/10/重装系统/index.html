@@ -473,6 +473,13 @@
 
       </div>
 
+       <!-- 音乐播放器 -->
+      <div>
+        
+          <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="//music.163.com/outchain/player?type=0&id=7235196918&auto=1&height=66"></iframe>
+        
+      </div>
+
     </div>
   </aside>
   <div id="sidebar-dimmer"></div>
@@ -496,8 +503,6 @@
   </span>
   <span class="author" itemprop="copyrightHolder">Kevin</span>
 </div>
-  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
-  </div>
 
         
 <div class="busuanzi-count">
@@ -629,6 +634,22 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
 
   
 
+    <!-- 樱花特效 -->
+    <script type="text/javascript">
+//   var windowWidth = $(window).width();
+//   if (windowWidth > 480) {
+//     document.write('<script type="text/javascript" src="http://qiniu.longxin.press/XueHua.min.eval_1614076149679.js" charset="utf-8"><\/script>');
+//   }
+// </script>
+
+  <!-- 雪花特效 -->
+  <script type="text/javascript" src="//libs.baidu.com/jquery/1.8.3/jquery.min.js"></script>
+  <script type="text/javascript">
+    var windowWidth = $(window).width();
+    if (windowWidth > 480) {
+      document.write('<script type="text/javascript" src="/js/snow.js"></script>');
+    }
+  </script>
 
 </body>
 </html>
