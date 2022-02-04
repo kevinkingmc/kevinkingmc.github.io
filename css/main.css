@@ -1175,7 +1175,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #12b640;
+  background: #cd73e5;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2759,7 +2759,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("https://pic.imgdb.cn/item/61dc2fd52ab3f51d91e0957d.jpg");
+  background: url("https://pic.imgdb.cn/item/61fce3a42ab3f51d915e4d49.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
